@@ -4,7 +4,7 @@ box-sizing: border-box;
 }
 
 body {
-background-color: #d3dede;
+background-color: #d6f5f5;
 font-family: Arial, Tahoma, sans-serif;
 color: #000000;
 margin: 0;
@@ -15,16 +15,20 @@ display: block;
 background-size: cover;
 background-repeat: no-repeat;
 border-radius: 15px;
-width: 95%;
-height: 30%;
+width: 60%;
+height: 50%;
 margin-left: auto;
 margin-right: auto;
 padding: 5px;
 }
 
 .content {
+width: 30%;
+height: 50vh;
+justify-content: center;
+align-items: center;	
 background: white;
-margin-left: 750px;
+margin-left: 600px;
 margin-right: 750px;
 padding: 10px;
 border-radius: 15px;	
